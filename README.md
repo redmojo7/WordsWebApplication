@@ -52,5 +52,5 @@ dotnet test UnitTests/UnitTests.csproj
 
 ## Additional Documentation
 
-- See `Approach.md` for information on the chosen approach and alternatives considered.
-- See `TestPlan.md` for a comprehensive test plan.
+- See [Approach.md](Approach.md) for information on the chosen approach and alternatives considered.
+- See [TestPlan.md](TestPlan.md) for a comprehensive test plan.
